@@ -33,3 +33,13 @@ input{
    border-top:none !important;
    border-left:none !important;
 }
+
+.downld{
+	font-size: 20pt;
+	position: absolute;
+	top: 45%;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+}
